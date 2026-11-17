@@ -1,6 +1,6 @@
 # Qevan Paul
 
-**Ingénieur Concessions Énergie · Data & SIG**
+**Ingénieur Data & Énergie · Contrôle de concessions**
 
 J'analyse les réseaux électriques et gaz pour aider à décider où investir, où maintenir et où décommissionner, à partir de données géographiques et d'outils open-source.
 
@@ -8,10 +8,9 @@ J'analyse les réseaux électriques et gaz pour aider à décider où investir, 
 
 ### À propos
 
-Ingénieur en contrôle de concessions de distribution d'énergie (électricité et gaz).
-Analyse de réseaux, cartographie, étude des incidents et prévision de consommation.
-Approche orientée chaînes reproductibles : données brutes, traitement scripté, résultat cartographié ou servi par API.
-Je publie en open-source les outils qui peuvent servir à d'autres collectivités ou gestionnaires de réseau.
+Ingénieur data et énergie, je travaille dans le contrôle des concessions de distribution d'électricité et de gaz. J'analyse les réseaux, les incidents et l'évolution des consommations pour vérifier la qualité du service rendu par les gestionnaires de réseau et éclairer les décisions des collectivités.
+
+Côté technique, je construis des chaînes de traitement reproductibles, des données brutes jusqu'à la carte, au modèle de prévision ou à l'API. Quand un outil peut servir à d'autres collectivités ou gestionnaires de réseau, je le publie en open-source.
 
 ---
 
