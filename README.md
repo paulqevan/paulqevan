@@ -10,7 +10,7 @@ J'analyse les réseaux électriques et gaz pour aider à décider où investir, 
 
 Ingénieur data et énergie, je travaille dans le contrôle des concessions de distribution d'électricité et de gaz. J'analyse les réseaux, les incidents et l'évolution des consommations pour vérifier la qualité du service rendu par les gestionnaires de réseau et éclairer les décisions des collectivités.
 
-Côté technique, je construis des chaînes de traitement reproductibles, des données brutes jusqu'à la carte, au modèle de prévision ou à l'API. Quand un outil peut servir à d'autres collectivités ou gestionnaires de réseau, je le publie en open-source.
+Côté technique, je construis des chaînes de traitement reproductibles, des données brutes jusqu'à la carte, au modèle de prévision ou à l'API. J'intègre les assistants IA à mon travail comme un outil à part entière : ils accélèrent le développement et l'analyse, tandis que la relecture, les tests et la validation des résultats restent de mon ressort. Quand un outil peut servir à d'autres collectivités ou gestionnaires de réseau, je le publie en open-source.
 
 ---
 
